@@ -1,0 +1,12 @@
+#List of datasets: CUB, CAR, BUT, ...
+experiment_name: 'alignhalf_CUB'
+dataset: 'CUB'
+swap: True
+swap_num: 7
+align: True
+learning_rate: 0.0008
+batch_size: 16
+epoch: 320
+step_size: 60
+momentum: 0.9
+gamma: 0.1

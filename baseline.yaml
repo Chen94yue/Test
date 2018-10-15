@@ -1,0 +1,12 @@
+#List of datasets: CUB, CAR, BUT, ...
+experiment_name: 'basleine'
+dataset: 'CUB'
+swap: False
+swap_num: 7
+align: False
+learning_rate: 0.002
+batch_size: 16
+epoch: 180
+step_size: 60
+momentum: 0.9
+gamma: 0.1
